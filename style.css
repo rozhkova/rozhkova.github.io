@@ -1,27 +1,6 @@
-smallMusa{
-  width: 0px;
-  height: 0px;
-}
-topLabel{
-  display: none;
-  visibility: hidden !important;
-}
-span{
-  visibility: hidden !important;
-  display: none;
-}
-.wixAds_siteBanner{
-  display: none;
-}
-.wixAdsdesktopWADBottom{
-  display: none;
-}
-.wixAdsdesktopWADBottomContent{
-  display: none;
-}
 #WIX_ADSdesktopWADTop{
-  display: none;
+	display: none;
 }
 #WIX_ADSdesktopWADBottom{
-  display: none !important;
+	visibility: hidden !important;
 }
