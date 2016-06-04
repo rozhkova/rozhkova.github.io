@@ -6,4 +6,5 @@
 }
 #WIX_ADSmobileAd{
 	display:none;
+	visibility: hidden;
 }
