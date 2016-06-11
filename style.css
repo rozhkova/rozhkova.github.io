@@ -4,3 +4,7 @@
 #WIX_ADSdesktopWADBottom{
 	visibility: hidden !important;
 }
+#WIX_ADSmobileAd{
+	
+	visibility: hidden;
+}
