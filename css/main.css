@@ -66,7 +66,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .site-links a .link-text { visibility: hidden; font-size: 14px; position: absolute; top: 30px; left: 50%; -moz-transform: translate(-50%, 0%); -o-transform: translate(-50%, 0%); -ms-transform: translate(-50%, 0%); -webkit-transform: translate(-50%, 0%); transform: translate(-50%, 0%); }
 .site-links a:hover { color: #42a9f8; }
 .site-links a:hover .link-text { visibility: visible; }
-
+//.fa-envelope-o:hover {color: #e75a4d;}
+//.mail{color: #e75a4d;}
 @media screen and (max-width: 768px) { .site-links { padding: 10px 0px 0px 0px; margin-left: -2px; }
   .site-links a { float: none; line-height: 22px; padding: 0px; margin: 0px 10px 0px 0px; }
   .site-links a .link-text { margin-left: 4px; visibility: visible; position: static; display: inline-block; -moz-transform: translate(0%, -11%); -o-transform: translate(0%, -11%); -ms-transform: translate(0%, -11%); -webkit-transform: translate(0%, -11%); transform: translate(0%, -11%); } }
@@ -86,6 +87,3 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
   .site-links { font-size: 14px; padding: 10px 0px 0px 0px; margin-left: 0px; text-align: center; }
   .site-links a { padding: 0px; margin: 0px 5px; }
   .site-links a .link-text { -moz-transform: translate(0%, 0%); -o-transform: translate(0%, 0%); -ms-transform: translate(0%, 0%); -webkit-transform: translate(0%, 0%); transform: translate(0%, 0%); } }
-
-
-  
